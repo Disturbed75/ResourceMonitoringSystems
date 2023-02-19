@@ -1,1 +1,9 @@
 .idea
+
+/spring-boot-app/.idea
+/spring-boot-app/target
+!/spring-boot-app/target/spring-boot-app-1.0.0.jar
+
+/grafana/data/*
+
+
